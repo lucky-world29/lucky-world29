@@ -11,6 +11,7 @@ A recent MCA graduate with a passion for software development!
 - Building scalable Android applications.
 
 ## 💞️ Looking to Collaborate On:
+
 - Innovative projects utilizing Java, JavaScript, and frameworks like Spring Boot and React.
 
 ## 📫 Contact Me:
