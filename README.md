@@ -40,4 +40,8 @@ A recent MCA graduate with a passion for software development!
 ---
 
 ### WakaTime Stats
+<!--
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29)](https://github.com/lucky-world29/github-readme-stats)
+-->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=dark)](https://github.com/lucky-world29/github-readme-stats)
+
