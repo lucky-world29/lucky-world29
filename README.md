@@ -27,11 +27,15 @@ A recent MCA graduate with a passion for software development!
 
 ### GitHub Stats
 [![Abinash's GitHub stats (Dark Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucky-world29/github-readme-stats)
+<!--
 [![Abinash's GitHub stats (Light Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucky-world29/github-readme-stats)
+-->
 
 ### Most Used Languages
 ![Top Languages (Dark Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=dark#gh-dark-mode-only)
+<!--
 ![Top Languages (Light Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=default#gh-light-mode-only)
+-->
 
 ---
 
