@@ -5,8 +5,6 @@
 A recent MCA graduate with a passion for software development!
 
 
-
-
 ## 👀 Interests:
 - Web and mobile development, particularly using Java, React.js, and Spring Boot.
 - Exploring cutting-edge technologies like the MERN stack and Android development.
