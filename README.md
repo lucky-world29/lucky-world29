@@ -27,8 +27,10 @@ A recent MCA graduate with a passion for software development!
 
 ---
 
+<!--
 ### GitHub Stats
 [![Abinash's GitHub stats (Dark Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucky-world29/github-readme-stats)
+-->
 <!--
 [![Abinash's GitHub stats (Light Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucky-world29/github-readme-stats)
 -->
@@ -38,6 +40,37 @@ A recent MCA graduate with a passion for software development!
 <!--
 ![Top Languages (Light Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=default#gh-light-mode-only)
 -->
+
+<!-- ====================================================================================================================================================================================================== -->
+
+<div align="Center">
+
+| Lucky's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=onedark&hide_border=true) 
+
+<!--| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+-->
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:abinashbehera9898@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
+
+
+
+
 
 ---
 
