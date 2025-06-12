@@ -35,8 +35,10 @@ A recent MCA graduate with a passion for software development!
 [![Abinash's GitHub stats (Light Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucky-world29/github-readme-stats)
 -->
 
+<!--
 ### Most Used Languages
 ![Top Languages (Dark Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=dark#gh-dark-mode-only)
+-->
 <!--
 ![Top Languages (Light Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=default#gh-light-mode-only)
 -->
@@ -49,10 +51,10 @@ A recent MCA graduate with a passion for software development!
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=onedark&hide_border=true) 
 
-<!--| Most Lang |
+| Most Lang |
 | ----------|
 | ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
--->
+
 
 </div>
 
