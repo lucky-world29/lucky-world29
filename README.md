@@ -1,67 +1,99 @@
+<h1 align="center">👋 Hi, I'm Abinash Behera</h1>
+<h3 align="center">🚀 Passionate Software Developer | 💻 MCA Graduate | 📱 Android & Web App Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Android+App+Builder;Tech+Explorer;Always+Learning...&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22"/>
+</p>
 
-
-
-# 👋 Hi, I’m Abinash Behera (@lucky-world29)
-
- 
-A recent MCA graduate with a passion for software development!
-
-## 👀 Interests:
-- Web and mobile development, particularly using Java, React.js, and Spring Boot.
-- Exploring cutting-edge technologies like the MERN stack and Android development.
-
-## 🌱 Currently Learning:
-- Advanced concepts in the MERN stack.
-- Building scalable Android applications.
-
-## 💞️ Looking to Collaborate On:
-
-- Innovative projects utilizing Java, JavaScript, and frameworks like Spring Boot and React.
-
-## 📫 Contact Me:
-- **Email**: [abinashbehera9889@gmail.com](mailto:abinashbehera9889@gmail.com)
-
-## ⚡ Fun Fact:
-- I love learning new things all the time!
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
 ---
 
-<!--
-### GitHub Stats
-[![Abinash's GitHub stats (Dark Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucky-world29/github-readme-stats)
--->
-<!--
-[![Abinash's GitHub stats (Light Mode)](https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucky-world29/github-readme-stats)
--->
+## 👨‍💻 About Me  
+- 🎓 I'm a **Master in Computer Applications** (MCA) graduate.  
+- 💡 I love turning ideas into working, scalable software.  
+- 🛠️ Skilled in building **clean Android apps**, **robust backends**, and **modern UIs**.  
+- 📚 Always upskilling and exploring new technologies.
 
-<!--
-### Most Used Languages
-![Top Languages (Dark Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=dark#gh-dark-mode-only)
--->
-<!--
-![Top Languages (Light Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=default#gh-light-mode-only)
--->
+---
 
-<!-- ====================================================================================================================================================================================================== -->
+## 🔭 I’m Currently Working On  
+- 📱 Crafting scalable **Android apps** with MVVM architecture.  
+- 💻 Deepening expertise in the **MERN stack** and backend APIs.
 
-<div align="Center">
+---
 
-| Lucky's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=onedark&hide_border=true) 
+## 🤝 Let’s Collaborate  
+If you're building with:  
+🛠️ **Java | Spring Boot | MongoDB | React | Android | Node.js**  
+Let's connect and create something cool! 💥  
+📩 Drop a message or connect through links below.
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+---
 
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:abinashbehera9889@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lucky-world29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/xir.rence" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/729473858179956859" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+## ⚡ Fun Fact  
+> **"I never stop learning — every bug is a teacher in disguise!"** 🐞🚀
+
+---
+
+## 🛠️ Tools & Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,nodejs,androidstudio,git,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Streaks
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=onedark&hide_border=true" alt="Streak"/>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"/>
 </div>
 
-<br>
-<hr>
+---
 
-<h3 align="center">Support My Work</h3>
+## ⏱️ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
+## ☕ Support My Work
 
 <p align="center">
   <a href="https://coff.ee/abinashbeh7" target="_blank">
@@ -69,31 +101,9 @@ A recent MCA graduate with a passion for software development!
   </a>
 </p>
 
-<br>
-
-<div align="Center">
-
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:abinashbehera9898@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
-</div>
-
-
-
-
-
-
 ---
 
-### WakaTime Stats
-
-<!--
- ![Lucky's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true)  
- -->
- <h2 align="center">WakaTime Stats</h2>
-
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true" alt="Lucky's WakaTime Stats">
+  <img src="https://komarev.com/ghpvc/?username=lucky-world29&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
-
