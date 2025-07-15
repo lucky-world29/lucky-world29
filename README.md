@@ -17,57 +17,87 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
----
+<div align="center">
 
-## 👨‍💻 About Me  
-- 🎓 I'm a **Master in Computer Applications** (MCA) graduate.  
-- 💡 I love turning ideas into working, scalable software.  
-- 🛠️ Skilled in building **clean Android apps**, **robust backends**, and **modern UIs**.  
-- 📚 Always upskilling and exploring new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Abinash+Behera!;Full-Stack+Dev+%7C+MCA+Grad+%7C+Code+Crafter;I+Build+Things+That+Matter+%F0%9F%92%BB" alt="Typing SVG" />
 
----
+<img src="https://github.com/lucky-world29/lucky-world29/blob/main/dev-3d.gif" width="60%" alt="3D Dev Animation" />
 
-## 🔭 I’m Currently Working On  
-- 📱 Crafting scalable **Android apps** with MVVM architecture.  
-- 💻 Deepening expertise in the **MERN stack** and backend APIs.
+</div>
 
 ---
 
-## 🤝 Let’s Collaborate  
-If you're building with:  
-🛠️ **Java | Spring Boot | MongoDB | React | Android | Node.js**  
-Let's connect and create something cool! 💥  
-📩 Drop a message or connect through links below.
+## 🌌 Who Am I?
+
+- 🎓 **MCA Graduate** | Crafting code that clicks  
+- 💻 **Full Stack Developer** with a passion for clean, optimized code  
+- ⚙️ I work across the stack:  
+  - **Frontend**: React, Tailwind, HTML/CSS, JavaScript  
+  - **Backend**: Node.js, Express.js, Spring Boot  
+  - **Database**: MongoDB, MySQL  
+- 🚀 Exploring: Docker, CI/CD, Microservices, Firebase  
+- 🧠 Obsessed with learning, improving, and helping others grow  
+- 🌈 I turn pizza & ideas into working code 🍕
 
 ---
 
-## 📫 Connect With Me  
+## 💡 What I’m Building
+
+- 🔧 Backend APIs with **Spring Boot & Node.js**  
+- 💻 UI/UX-first web apps using **React + Tailwind CSS**  
+- 🧪 Experiments with **3D Web Animations** and **AI APIs**
+
+---
+
+## 🤝 Let’s Connect & Collaborate
+
 <p align="center">
-  <a href="mailto:abinashbehera9889@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lucky-world29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/lucky_world29/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/kqb3EwFx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://coruscating-mermaid-d1ef87.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIyZWJmMjgxZjIzNmViZmZlZjdiZDY1MmIzYmE1NTM2ZDBkNzI2NiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" height="auto" />
 </p>
 
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:abinashbehera9889@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" /><br/>Email
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucky-world29" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/lucky_world29/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="40" /><br/>Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/kqb3EwFx" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" width="40" /><br/>Discord
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://coruscating-mermaid-d1ef87.netlify.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=webflow" width="40" /><br/>Portfolio
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact  
-> **"I never stop learning — every bug is a teacher in disguise!"** 🐞🚀
+## 🎨 Vibe Check: Tech + Creativity
+
+> ⚡ "I don't just write code... I **compose** it."  
+> ✨ Fueled by curiosity. Designed for impact. Built with love.
 
 ---
+
+<details>
+  <summary><b>⚙️ Tech Stack Snapshot</b></summary><br/>
+  
+
 
 ## 🛠️ Tools & Tech Stack
 <p align="center">
