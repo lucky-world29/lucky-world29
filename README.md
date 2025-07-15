@@ -46,21 +46,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abinashbehera9889@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lucky-world29">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/lucky_world29/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/kqb3EwFx">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://coruscating-mermaid-d1ef87.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=webflow&logoColor=white"/>
-  </a>
+  <a href="mailto:abinashbehera9889@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://github.com/lucky-world29"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://www.linkedin.com/in/abinash-behera-200145255"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://www.instagram.com/lucky_world29/"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://coruscating-mermaid-d1ef87.netlify.app/"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
 </p>
 
 ---
