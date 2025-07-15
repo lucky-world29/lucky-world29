@@ -7,68 +7,42 @@
 
 ---
 
-### 🧪 Currently Exploring
+## 👨‍🎓 About Me
 
-- 🐳 Docker, Microservices  
-- 🔥 Firebase Auth & Hosting  
-- 🤖 AI APIs & Automation  
-- 🌐 Web Animations (3D, Parallax)
+- 📛 **Name:** Abinash Behera  
+- 📍 **Location:** Bhubaneswar, India  
+- 🙋‍♂️ **Pronouns:** He/Him  
+- 🎓 **Education:** MCA @ BPUT (CGPA: 8.34)  
+- 🧠 **Motto:** *Discipline + Curiosity = 🔥 Growth 🚀*
 
 ---
 
-### 🧰 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,git,github,vscode,html,css,bootstrap,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode,postman,eclipse" />
 </p>
----
-
-### 👨‍🎓 About Me — Abinash Behera
-
-**📛 Name:** Abinash Behera  
-**📍 Location:** Bhubaneswar, India  
-**🙋 Pronouns:** He/Him  
-**🎓 Education:** Master of Computer Applications (MCA) @ BPUT — CGPA: 8.34  
 
 ---
 
-### 💻 Tech Stack
+## 🧪 Currently Exploring
 
-**Languages:**  
-Java • Python • JavaScript
-
-**Frontend:**  
-React • Tailwind CSS • HTML • CSS
-
-**Backend:**  
-Node.js • Spring Boot • Express.js
-
-**Databases:**  
-MongoDB • MySQL
-
-**Tools & IDEs:**  
-VS Code • Git • Postman • Eclipse • Spring Tool Suite (STS)
+- 🐳 Docker & Microservices  
+- 🔥 Firebase Auth & Hosting  
+- 🤖 AI APIs & Automation  
+- 🌐 Web Animations (3D, Parallax)  
 
 ---
 
-### 🚀 Currently Learning  
-Docker • CI/CD • AI APIs • Firebase 🔥
+## 🎯 Interests
+
+- 🎬 Watching Anime  
+- 📚 Binge Learning  
+- 🛠️ Debugging Life  
 
 ---
 
-### 🎯 Interests  
-🎬 Watching Anime  
-📚 Binge Learning  
-🛠️ Debugging Life
-
----
-
-### 🧠 Motto  
-**Discipline + Curiosity = 🔥 Growth 🚀**
-
-
----
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:abinashbehera9889@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
@@ -79,24 +53,20 @@ Docker • CI/CD • AI APIs • Firebase 🔥
 </p>
 
 ---
-<!-- =================================================================================== -->
+
+<details>
+<summary><b>⚙️ Tech Stack Snapshot</b></summary><br/>
+
+### 🛠️ Tools & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,nodejs,androidstudio,git,vscode,figma" />
+</p>
+</details>
 
 ---
 
 <details>
-  <summary><b>⚙️ Tech Stack Snapshot</b></summary><br/>
-  
-
-
-## 🛠️ Tools & Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,nodejs,androidstudio,git,vscode,figma" />
-</p>
-
----
-
-
-### 📊 GitHub Analytics
+<summary><b>📊 GitHub Analytics</b></summary><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight" alt="Abinash's GitHub Stats" />
@@ -110,27 +80,34 @@ Docker • CI/CD • AI APIs • Firebase 🔥
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky-world29&theme=tokyonight" />
 </p>
 
+</details>
 
 ---
 
-## ⏱️ WakaTime Stats
+<details>
+<summary><b>⏱️ WakaTime Stats</b></summary><br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true"/>
 </p>
 
+</details>
+
 ---
 
-## ☕ Support My Work
+<details>
+<summary><b>☕ Support My Work</b></summary><br/>
 
 <p align="center">
   <a href="https://coff.ee/abinashbeh7" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support me on Coffee" width="210" height="50" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support me on Coffee" width="210" height="50">
   </a>
 </p>
 
+</details>
+
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucky-world29&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
