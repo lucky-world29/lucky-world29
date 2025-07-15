@@ -33,8 +33,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode,postman,eclipse" />
 </p>
 
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <hr/>
