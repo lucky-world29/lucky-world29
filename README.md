@@ -8,7 +8,6 @@
 ---
 
 <p align="center">
-  <!-- Badges row -->
   <img src="https://img.shields.io/github/followers/lucky-world29?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/lucky-world29?label=Stars&style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Anime%20Lover-%F0%9F%8E%A9-blueviolet" alt="Anime badge" />
@@ -42,24 +41,25 @@
 <hr/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucky-world29/lucky-world29/main/your-uploaded-image.png" alt="Dev illustration" width="250"/>
+  <!-- 3D animation (example Lottie animation embed GIF) -->
+  <img src="https://lottie.host/3008882f-c528-4a5b-bba0-1e76151881b4/zlRA3AtyaR.gif" alt="3D Dev Animation" width="300"/>
 </p>
 
 <p align="center">
   <a href="mailto:abinashbehera9889@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/lucky-world29">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/lucky_world29/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/kqb3EwFx">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://coruscating-mermaid-d1ef87.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=webflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=webflow&logoColor=white"/>
   </a>
 </p>
 
