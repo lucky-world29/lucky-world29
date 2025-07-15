@@ -14,15 +14,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucky-world29.lucky-world29&style=flat-square&color=brightgreen" alt="Visitor badge" />
 </p>
 
----
 
+
+<!--
 ## 👨‍🎓 About Me
 
 - 📛 **Name:** Abinash Behera  
 - 📍 **Location:** Bhubaneswar, India    
 - 🎓 **Education:** MCA @ BPUT (CGPA: 8.34)  
 - 🧠 **Motto:** *Discipline + Curiosity = 🔥 Growth 🚀*
-
+-->
 ---
 
 ## 💻 Tech Stack
@@ -92,9 +93,10 @@
 
 ---
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary><br/>
+<!-- <details>
+<summary><b>🏆 GitHub Trophies</b></summary><br/> -->
 
+<b>🏆 GitHub Trophies</b>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucky-world29&theme=tokyonight&no-frame=true&row=1&column=8"/>
 </p>
@@ -103,9 +105,9 @@
 
 ---
 
-<details>
-<summary><b>📊 GitHub Analytics</b></summary><br/>
-
+<!-- <details>
+<summary><b>📊 GitHub Analytics</b></summary><br/> -->
+<b>📊 GitHub Analytics</b>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff" alt="Abinash's GitHub Stats" />
 </p>
@@ -122,13 +124,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
 </p>
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>☕ Support My Work</b></summary><br/>
-
+<!-- <details>
+<summary><b>☕ Support My Work</b></summary><br/> -->
+<b>☕ Support My Work</b>
 <p align="center">
   <a href="https://coff.ee/abinashbeh7" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support me on Coffee" width="210" height="50">
