@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]  # runs every hour
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: lucky-world29
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isometric: yes
+          plugin_isometric_sections: calendar
+          plugin_worldmap: yes
+          plugin_worldmap_token: ${{ secrets.GOOGLE_MAPS_TOKEN }}
+          plugin_worldmap_regions: world
