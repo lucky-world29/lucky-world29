@@ -8,24 +8,13 @@
 ---
 
 <p align="center">
-  <!-- Badges row 1 -->
+  <!-- Badges row -->
   <img src="https://img.shields.io/github/followers/lucky-world29?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/lucky-world29?label=Stars&style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/sponsors/lucky-world29?label=Sponsors&style=social" alt="GitHub sponsors" />
-</p>
-
-<p align="center">
-  <!-- Badges row 2 -->
   <img src="https://img.shields.io/badge/Anime%20Lover-%F0%9F%8E%A9-blueviolet" alt="Anime badge" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-%E2%98%95%EF%B8%8F-orange" alt="Coffee badge" />
+  <img src="https://img.shields.io/badge/Coffee%20Powered-%E2%98%95%EF%B8%8F-orange" alt="Coffee badge" />
   <img src="https://img.shields.io/badge/MCA%20Grad-8.34%20CGPA-success" alt="MCA badge" />
-</p>
-
-<p align="center">
-  <!-- Badges row 3 -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucky-world29.lucky-world29&style=flat-square&color=brightgreen" alt="Visitor badge" />
-  <img src="https://img.shields.io/badge/Code%20with-Love-%23FF69B4" alt="Love badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-%23ffb347" alt="Collaboration badge" />
 </p>
 
 ---
@@ -48,6 +37,34 @@
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
+<hr/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucky-world29/lucky-world29/main/your-uploaded-image.png" alt="Dev illustration" width="250"/>
+</p>
+
+<p align="center">
+  <a href="mailto:abinashbehera9889@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lucky-world29">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lucky_world29/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/kqb3EwFx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://coruscating-mermaid-d1ef87.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=webflow&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🧪 Currently Exploring
 
 - 🐳 Docker & Microservices  
@@ -62,18 +79,6 @@
 - 🎬 Watching Anime  
 - 📚 Binge Learning  
 - 🛠️ Debugging Life  
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:abinashbehera9889@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://github.com/lucky-world29"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://www.linkedin.com/in/abinash-behera-200145255"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://www.instagram.com/lucky_world29/"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://coruscating-mermaid-d1ef87.netlify.app/"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
-</p>
 
 ---
 
