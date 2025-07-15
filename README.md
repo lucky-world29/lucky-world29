@@ -21,8 +21,7 @@
 ## 👨‍🎓 About Me
 
 - 📛 **Name:** Abinash Behera  
-- 📍 **Location:** Bhubaneswar, India  
-- 🙋‍♂️ **Pronouns:** He/Him  
+- 📍 **Location:** Bhubaneswar, India    
 - 🎓 **Education:** MCA @ BPUT (CGPA: 8.34)  
 - 🧠 **Motto:** *Discipline + Curiosity = 🔥 Growth 🚀*
 
@@ -116,7 +115,7 @@
 </details>
 
 ---
-
+<!--
 <details>
 <summary><b>💡 Extra Metrics</b></summary><br/>
 
@@ -125,7 +124,7 @@
 </p>
 
 </details>
-
+-->
 ---
 
 <details>
