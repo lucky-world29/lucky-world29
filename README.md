@@ -7,6 +7,29 @@
 
 ---
 
+<p align="center">
+  <!-- Badges row 1 -->
+  <img src="https://img.shields.io/github/followers/lucky-world29?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/lucky-world29?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/sponsors/lucky-world29?label=Sponsors&style=social" alt="GitHub sponsors" />
+</p>
+
+<p align="center">
+  <!-- Badges row 2 -->
+  <img src="https://img.shields.io/badge/Anime%20Lover-%F0%9F%8E%A9-blueviolet" alt="Anime badge" />
+  <img src="https://img.shields.io/badge/Coffee-Powered-%E2%98%95%EF%B8%8F-orange" alt="Coffee badge" />
+  <img src="https://img.shields.io/badge/MCA%20Grad-8.34%20CGPA-success" alt="MCA badge" />
+</p>
+
+<p align="center">
+  <!-- Badges row 3 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucky-world29.lucky-world29&style=flat-square&color=brightgreen" alt="Visitor badge" />
+  <img src="https://img.shields.io/badge/Code%20with-Love-%23FF69B4" alt="Love badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-%23ffb347" alt="Collaboration badge" />
+</p>
+
+---
+
 ## 👨‍🎓 About Me
 
 - 📛 **Name:** Abinash Behera  
@@ -55,12 +78,12 @@
 ---
 
 <details>
-<summary><b>⚙️ Tech Stack Snapshot</b></summary><br/>
+<summary><b>🏆 GitHub Trophies</b></summary><br/>
 
-### 🛠️ Tools & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,nodejs,androidstudio,git,vscode,figma" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucky-world29&theme=tokyonight&no-frame=true&row=1&column=8"/>
 </p>
+
 </details>
 
 ---
@@ -69,15 +92,19 @@
 <summary><b>📊 GitHub Analytics</b></summary><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight" alt="Abinash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f&icon_color=58a6ff" alt="Abinash's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky-world29&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky-world29&theme=tokyonight&hide_border=false&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky-world29&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
 </p>
 
 </details>
@@ -89,6 +116,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><b>💡 Extra Metrics</b></summary><br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.classic.svg" alt="Metrics" />
 </p>
 
 </details>
