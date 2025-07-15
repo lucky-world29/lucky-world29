@@ -35,8 +35,6 @@
 
 ## 🤝 Let's Connect & Collaborate
 
-<hr/>
-
 <p align="center">
   <!-- 3D animation (example Lottie animation embed GIF) -->
   <img src="https://lottie.host/3008882f-c528-4a5b-bba0-1e76151881b4/zlRA3AtyaR.gif" alt="3D Dev Animation" width="300"/>
