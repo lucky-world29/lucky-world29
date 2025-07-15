@@ -21,6 +21,50 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,git,github,vscode,html,css,bootstrap,javascript" />
 </p>
+---
+
+### 👨‍🎓 About Me — Abinash Behera
+
+**📛 Name:** Abinash Behera  
+**📍 Location:** Bhubaneswar, India  
+**🙋 Pronouns:** He/Him  
+**🎓 Education:** Master of Computer Applications (MCA) @ BPUT — CGPA: 8.34  
+
+---
+
+### 💻 Tech Stack
+
+**Languages:**  
+Java • Python • JavaScript
+
+**Frontend:**  
+React • Tailwind CSS • HTML • CSS
+
+**Backend:**  
+Node.js • Spring Boot • Express.js
+
+**Databases:**  
+MongoDB • MySQL
+
+**Tools & IDEs:**  
+VS Code • Git • Postman • Eclipse • Spring Tool Suite (STS)
+
+---
+
+### 🚀 Currently Learning  
+Docker • CI/CD • AI APIs • Firebase 🔥
+
+---
+
+### 🎯 Interests  
+🎬 Watching Anime  
+📚 Binge Learning  
+🛠️ Debugging Life
+
+---
+
+### 🧠 Motto  
+**Discipline + Curiosity = 🔥 Growth 🚀**
 
 
 ---
