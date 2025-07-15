@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+Coffee+Into+Code...;React+%2B+Spring+Boot+Developer;Anime+Fan+%F0%9F%8E%A9+%7C+Always+Learning+%F0%9F%93%9A;Welcome+to+My+Dev+World+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/lucky-world29?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/lucky-world29?label=Stars&style=social" alt="GitHub stars" />
@@ -33,37 +31,64 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode,postman,eclipse" />
 </p>
 
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <!-- 3D animation (example Lottie animation embed GIF) -->
-  <img src="https://lottie.host/3008882f-c528-4a5b-bba0-1e76151881b4/zlRA3AtyaR.gif" alt="3D Dev Animation" width="300"/>
+  <img src="https://media1.tenor.com/m/iRkL6OMGhU4AAAAC/alarm.gif" alt="3D Animation" width="300"/>
 </p>
 
 <p align="center">
-  <a href="mailto:abinashbehera9889@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://github.com/lucky-world29"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://www.linkedin.com/in/abinash-behera-200145255"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://www.instagram.com/lucky_world29/"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://coruscating-mermaid-d1ef87.netlify.app/"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+  <a href="mailto:abinashbehera9889@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://github.com/lucky-world29" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://www.linkedin.com/in/abinash-behera-200145255" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://www.instagram.com/lucky_world29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://coruscating-mermaid-d1ef87.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
 </p>
 
 ---
 
-## 🧪 Currently Exploring
+<table>
+  <tr>
+    <td align="center" valign="top">
 
-- 🐳 Docker & Microservices  
-- 🔥 Firebase Auth & Hosting  
-- 🤖 AI APIs & Automation  
-- 🌐 Web Animations (3D, Parallax)  
+<h3>🧪 Currently Exploring</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%20APIs-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Animations-6E57E0?style=for-the-badge" />
+</p>
 
-## 🎯 Interests
+<ul align="left">
+  <li>🐳 Docker & Microservices</li>
+  <li>🔥 Firebase Auth & Hosting</li>
+  <li>🤖 AI APIs & Automation</li>
+  <li>🌐 Web Animations (3D, Parallax)</li>
+</ul>
 
-- 🎬 Watching Anime  
-- 📚 Binge Learning  
-- 🛠️ Debugging Life  
+</td>
+    <td align="center" valign="top">
+
+<h3>🎯 Interests</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anime-FE4C61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging%20Life-00C853?style=for-the-badge" />
+</p>
+
+<ul align="left">
+  <li>🎬 Watching Anime</li>
+  <li>📚 Binge Learning</li>
+  <li>🛠️ Debugging Life</li>
+</ul>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -100,27 +125,6 @@
 </details>
 
 ---
-
-<details>
-<summary><b>⏱️ WakaTime Stats</b></summary><br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=onedark&hide_border=true"/>
-</p>
-
-</details>
-
----
-<!--
-<details>
-<summary><b>💡 Extra Metrics</b></summary><br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/metrics.classic.svg" alt="Metrics" />
-</p>
-
-</details>
--->
 
 <details>
 <summary><b>☕ Support My Work</b></summary><br/>
