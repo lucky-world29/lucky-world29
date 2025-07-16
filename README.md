@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky-world29&theme=tokyonight&hide_border=false&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=lucky-world29&theme=tokyonight&hide_border=false&background=0D1117&ring=58A6FF&fire=FF9D00&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
