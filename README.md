@@ -124,6 +124,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-world29&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
+</p>
+
+
 
 
 ---
