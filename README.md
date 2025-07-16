@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=9f9f9f" />
 </p>
 
 
