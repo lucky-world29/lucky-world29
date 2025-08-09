@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abinashbehera9889@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="mailto:abinashbehera9898@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
   <a href="https://github.com/lucky-world29" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
   <a href="https://www.linkedin.com/in/abinash-behera-200145255" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/lucky_world29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
