@@ -50,7 +50,7 @@
   <a href="https://github.com/lucky-world29" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
   <a href="https://www.linkedin.com/in/abinash-behera-200145255" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/lucky_world29/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://coruscating-mermaid-d1ef87.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+  <a href="https://abinashbehera.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
 </p>
 
 ---
