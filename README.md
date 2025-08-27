@@ -82,12 +82,12 @@
 </table>
 
 ---
-
+<!--
 <b>🏆 GitHub Trophies</b>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucky-world29&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
-
+-->
 ---
 
 <b>📊 GitHub Analytics</b>
@@ -125,3 +125,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucky-world29&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
+
+<!-- Footer -->
+<div align="center">
+  
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=footer)
+</div>
