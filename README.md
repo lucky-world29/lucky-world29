@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&color=gradient" alt="Waving header"/>
+</p>
+
 <h1 align="center">🔥 Yo, I'm <span style="color:#58A6FF;">Abinash Behera</span> 👨‍💻</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | 💻 MCA Grad | 🧠 Code + Anime + Coffee</h3>
 
