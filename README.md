@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&color=gradient" alt="Waving header"/>
 </p>
@@ -130,8 +132,21 @@
   <img src="https://komarev.com/ghpvc/?username=lucky-world29&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
 
+<!-- -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Status-PRO-green?style=for-the-badge" alt="PRO badge">
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Access-VIP-gold?style=flat-square" alt="VIP badge">
+    </td>
+  </tr>
+</table>
+
 <!-- Footer -->
 <div align="center">
   
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=footer)
 </div>
+
