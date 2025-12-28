@@ -17,76 +17,93 @@
 
 ---
 
-## 👨‍💻 Summary
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Summary
 Full-Stack Developer experienced in **Java, ASP.NET MVC, C#, SQL Server**, and modern web technologies.  
 Focused on **secure backend logic, clean architecture, and scalable systems**.
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+<p align="center"><b>Java · ASP.NET · C# · SQL Server · Bootstrap · Git</b></p>
 
 ---
 
 ## 💻 Tech Stack (Compact View)
 
+<table align="center">
+<tr>
+<td align="center">
+
 ### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cs,javascript,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,cs,javascript,python" />
+
+</td>
+<td align="center">
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### ⚙️ Backend / Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet" /><br/>
+ASP.NET · ASP.NET MVC · ADO.NET · Entity Framework · JSP · Servlet
 
-**ASP.NET · ASP.NET MVC · ADO.NET · Entity Framework · JSP · Servlet**
+</td>
+<td align="center">
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" /><br/>
+MSSQL (SQL Server), MySQL
 
-**MSSQL (SQL Server), MySQL**
-
-### 🧪 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,git,github,postman" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏢 Experience
 
-**Codotech IT Services** — *Software Developer Intern (Remote)*  
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Codotech IT Services**  
+*Software Developer Intern (Remote)*  
 `Jan 2025 – Feb 2025`  
-• Backend development exposure • APIs • Project workflow  
+• Backend development exposure  
+• APIs & project workflow  
 
-**OpenTechz (OTZ Infotech)** — *Software Development Intern*  
+</td>
+<td width="50%" valign="top">
+
+**OpenTechz (OTZ Infotech)**  
+*Software Development Intern*  
 `Jan 2024 – Mar 2024`  
-• Full-stack development • System design • **FoodBox Project**
+• Full-stack development  
+• System design  
+• **FoodBox Project**
 
----
-
-## 📂 Projects
-
-**🍔 Food Box Management System**  
-`Java | JSP | Servlet | MySQL`  
-• Inventory & order management • CRUD • Bootstrap UI  
-
-**🧑‍💼 Job Portal Web Application**  
-`ASP.NET MVC | C# | MSSQL`  
-• Job & applicant CRUD  
-• Secure login & role-based access  
-• Search & filter functionality  
-
-**🛒 E-Store Product Management System**  
-`ASP.NET WebForms | C# | ADO.NET`  
-• Product CRUD • Parameterized queries  
-• SQL Server integration • Stock automation  
-
-**🌐 Personal Portfolio Website** *(Ongoing)*  
-• Project showcase • Responsive UI • Continuous updates  
+</td>
+</tr>
+</table>
 
 ---
 
