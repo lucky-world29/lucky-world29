@@ -110,11 +110,23 @@ MSSQL (SQL Server), MySQL
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:abinashbehera9898@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://github.com/lucky-world29"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://www.linkedin.com/in/abinashbehera9898"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://abinashbehera.netlify.app"><img src="https://skillicons.dev/icons?i=webflow" height="30"/></a>
+  <a href="mailto:abinashbehera9898@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Abinash-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/lucky-world29" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-lucky--world29-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abinashbehera9898" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Abinash%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://abinashbehera.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6E07F3?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
