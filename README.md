@@ -125,7 +125,7 @@ MSSQL (SQL Server), MySQL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucky-world29&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=radical&hide_border=true" />
 </p>
 
 ---
