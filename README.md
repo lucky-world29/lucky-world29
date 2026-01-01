@@ -130,18 +130,21 @@ MSSQL (SQL Server), MySQL
   </a>
 </p>
 
-
----
-
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight" />
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats for lucky-world29"
+  />
+  <img
+    width="420"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats for lucky-world29"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky-world29&theme=radical&hide_border=true" />
-</p>
 
 ---
 
