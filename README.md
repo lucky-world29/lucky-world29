@@ -146,6 +146,15 @@ MSSQL (SQL Server), MySQL
     alt="GitHub streak stats"
   />
 </p>
+
+<p align="center">
+  <img
+    width="420"
+    src="https://streak-stats.demolab.com?user=lucky-world29&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats"
+  />
+</p>
+
 ---
 
 <p align="center">
