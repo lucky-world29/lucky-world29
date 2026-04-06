@@ -77,6 +77,7 @@ ASP.NET · ASP.NET MVC · ADO.NET · Entity Framework · JSP · Servlet
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql" /><br/>
+<img src="https://skillicons.dev/icons?i=mssql" /><br/>
 MSSQL (SQL Server), MySQL
 
 </td>
