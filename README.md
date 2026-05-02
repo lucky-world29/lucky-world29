@@ -86,25 +86,37 @@ MSSQL (SQL Server), MySQL
 
 <table align="center" width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-**Codotech IT Services**  
-*Software Developer Intern (Remote)*  
-`Jan 2025 – Feb 2025`  
-• Backend development exposure  
-• APIs & project workflow  
-
-</td>
-<td width="50%" valign="top">
-
-**OpenTechz (OTZ Infotech)**  
+### 🚀 OpenTechz (OTZ)  
 *Software Development Intern*  
-`Jan 2024 – Mar 2024`  
-• Full-stack development  
-• System design  
-• **FoodBox Project**
+`Jan 2024 – Mar 2024`
+
+<img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Work-Full%20Stack-orange?style=flat-square" />
+
+- ⚙️ Developed full-stack features for web applications  
+- 🧠 Worked on system design and architecture basics  
+- 🍱 Built **FoodBox Project** (end-to-end implementation)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 💼 Gussmann Software Technologies Pvt Ltd  
+*Jr. Software Engineer*  
+`Apr 2026 – Present`
+
+<img src="https://img.shields.io/badge/Role-Jr.%20Software%20Engineer-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-critical?style=flat-square" />
+
+- 🏗️ Contributing to enterprise-level applications  
+- 🔧 Working on backend development and system logic  
+- 🚀 Handling real-world production workflows and deployments  
+
+</td>
+
 </tr>
 </table>
 
