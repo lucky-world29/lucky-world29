@@ -132,47 +132,12 @@ MSSQL (SQL Server), MySQL
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://abinashbehera.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-6E07F3?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abinashbehera9898">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abinashbehera9898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/lucky-world29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/abinash_98/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/abinashbehera981">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/luckyrex">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/abinashbehera">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square" />
-  </a>
-  <a href="https://www.hackerearth.com/@abinashbehera9898/">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=flat-square" />
-  </a>
-  <a href="https://atcoder.jp/users/lucky_29">
-    <img src="https://img.shields.io/badge/AtCoder-00599C?style=flat-square" />
-  </a>
-  <a href="https://learn.microsoft.com/en-in/users/abinashbehera-8204/">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  </a>
   <a href="https://dev.to/abinash_behera_bc65de5516">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@abinashbehera9898">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Developer%20Hub-000000?style=for-the-badge&logo=devdotto&logoColor=white"
+      alt="Developer Hub"
+      width="340"
+    />
   </a>
 </p>
 
