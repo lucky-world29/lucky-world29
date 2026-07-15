@@ -43,6 +43,7 @@ Focused on **secure backend logic, clean architecture, and scalable systems**.
 ### 💻 Tech Stack
 <p align="center"><b>Java · ASP.NET · C# · SQL Server · Bootstrap · Git</b></p>
 
+<!--
 ---
 
 ## 💻 Tech Stack (Compact View)
@@ -83,7 +84,7 @@ MSSQL (SQL Server), MySQL
 </table>
 
 ---
-
+-->
 ## 🏢 Experience
 
 <table align="center" width="100%">
@@ -143,13 +144,13 @@ MSSQL (SQL Server), MySQL
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
- <p align="center">
+ <!--<p align="center">
   <img
     width="420"
     src="https://github-readme-stats.vercel.app/api?username=lucky-world29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub stats"
   />
-</p> 
+</p> -->
 
 <p align="center">
   <img
@@ -159,7 +160,16 @@ MSSQL (SQL Server), MySQL
   />
 </p>
 
----
+<p align="center">
+  <a href="https://buymeacoffee.com/abinashbeh7" target="_blank">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
+      height="60"
+    />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" />
