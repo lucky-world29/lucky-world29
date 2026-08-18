@@ -85,7 +85,7 @@ MSSQL (SQL Server), MySQL
 -->
 ## 🏢 Experience
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -117,6 +117,127 @@ MSSQL (SQL Server), MySQL
 - 🚀 Handling real-world production workflows and deployments  
 
 </td>
+
+</tr>
+</table> -->
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Gussmann Software Technologies Pvt Ltd
+
+*Jr. Software Engineer*
+`Apr 2026 – Present`
+
+<img src="https://img.shields.io/badge/Role-Jr.%20Software%20Engineer-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-critical?style=flat-square" />
+
+* 🏗️ Contributing to enterprise-level web applications using Microsoft technologies
+* ⚙️ Working on backend development, business logic, and API integration
+* 🔧 Developing and maintaining production-level application features
+* 🗄️ Working with databases, APIs, and enterprise application workflows
+* 🚀 Handling real-world development, debugging, and deployment activities
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Naresh i Technologies
+
+*.NET Developer Trainee*
+`Jun 2025 – Mar 2026`
+
+<img src="https://img.shields.io/badge/Role-.NET%20Developer%20Trainee-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Microsoft%20.NET-orange?style=flat-square" />
+
+* 📚 Completed intensive training in Microsoft .NET technologies
+* 🧩 Worked on full-stack web development concepts and implementation
+* ⚙️ Developed applications using C#, ASP.NET, and related technologies
+* 🗄️ Worked with databases, APIs, and backend development
+* 🚀 Strengthened practical skills through real-world development projects
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 CODOTECH IT Services & Consulting
+
+*Python Programming Intern*
+`Jan 2025 – Feb 2025`
+
+<img src="https://img.shields.io/badge/Role-Python%20Programming%20Intern-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Python%20Development-blue?style=flat-square" />
+
+* 🐍 Worked on Python programming and application development
+* 💡 Applied Python concepts to practical development tasks
+* 🔧 Improved problem-solving and programming skills through hands-on work
+* 🌐 Explored software development workflows and real-world IT practices
+* 🚀 Gained practical experience working in a professional development environment
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Opentechz Pvt. Ltd.
+
+*Training Specialist*
+`May 2024 – Oct 2024`
+
+<img src="https://img.shields.io/badge/Role-Training%20Specialist-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" />
+
+* 🎯 Completed intensive training focused on modern web development
+* 🌐 Worked with HTML5, CSS3, JavaScript, ES6, and React.js
+* 🧩 Developed multiple web-based projects during the training
+* 🎨 Implemented responsive and interactive user interfaces
+* 🚀 Strengthened front-end development and full-stack fundamentals
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Opentechz Pvt. Ltd.
+
+*Software Engineer Intern*
+`Oct 2023 – Mar 2024`
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Work-Backend%20Development-orange?style=flat-square" />
+
+* ⚙️ Assisted in developing features for internal management systems
+* ☕ Worked with Java for backend application development
+* 🐛 Debugged and tested application code to improve software reliability
+* 🎨 Collaborated on UI/UX improvements using Bootstrap
+* 🧠 Gained practical experience in software development and team collaboration
+
+</td>
+
+<!-- <td width="50%" valign="top">
+
+### 🛠️ OpenTechz (OTZ)
+
+*Software Development Intern*
+`Jan 2024 – Mar 2024`
+
+<img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Work-Full%20Stack-orange?style=flat-square" />
+
+* ⚙️ Developed full-stack features for web applications
+* 🧠 Worked on system design and software architecture fundamentals
+* 🌐 Built and integrated frontend and backend functionality
+* 🍱 Developed the **FoodBox Project** as an end-to-end application
+* 🚀 Gained practical experience in full-stack application development
+
+</td> -->
 
 </tr>
 </table>
